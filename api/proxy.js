@@ -2,7 +2,7 @@
 
 // Thay thế bằng URL Web App của Google Apps Script của bạn (kết thúc bằng /exec)
 // Ví dụ: https://script.google.com/macros/s/AKfycbwJ3jvXr4pEVsBa0CgXaDxoVtj13ndJh27IZJQl1QtvLHgcaUoUB5tklX4KsEndsduo/exec
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwJ3jvXr4pEVsBa0CgXaDxoVtj13ndJh27IZJQl1QtvLHgcaUoUB5tklX4KsEndsduo/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxkAVwq77__h_RzjH6ir_ssCyl29zXJD89aK60d-uqpVwu-qt9G-v2tX4wVUX8MeyLB/exec";
 
 export default async function handler(request) {
   // Xử lý preflight OPTIONS request cho CORS
